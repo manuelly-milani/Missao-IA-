@@ -57,7 +57,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você acha que as aulas presenciais são mais produtivas do que as online?"
+        enunciado: "Você acha que as aulas presenciais são mais produtivas do que as online?",
         alternativas: [
             {
                 texto: "Sim.",
