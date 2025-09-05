@@ -54,6 +54,7 @@ const perguntas = [
             {
                 texto: "Não.",
                 afirmacao: "As experiências práticas, como estágio, são essenciais para o desenvolvimento profissional."
+                }
         ]
     },
     {
